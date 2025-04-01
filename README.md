@@ -59,3 +59,17 @@ If you'd like to compile the Python source into an executable yourself:
 1. Install **PyInstaller**:
    ```bash
    pip install pyinstaller
+   ```
+2. Navigate to the directory containing `main.py` and run:
+    ```bash
+   pyinstaller --onefile --windowed main.py
+   ```
+   - This will create an executable in the `dist` folder.
+## Known Issues
+- The application currently works only on Windows since `mklink` is a Windows-specific command.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mathew005/LinkForge/blob/main/LICENSE) file for details.
+
+## Contributing
+If you'd like to contribute to LinkForge, feel free to open a pull request or submit issues. We welcome suggestions and improvements!
