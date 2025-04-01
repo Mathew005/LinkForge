@@ -2,6 +2,9 @@
 
 **LinkForge** is a Windows-based desktop application built with **Tkinter** that allows users to create junction folders using the `mklink` command. It provides an easy-to-use interface for creating and managing symbolic links between folders. Additionally, the app keeps track of all the junctions created, displaying them in a **History Panel** for easy reference.
 
+
+![photo](https://github.com/user-attachments/assets/55ad4456-55c3-40d6-b699-3770048486dc)
+
 ## Features
 - **Create Junction Folders:** Easily create junction folders by specifying a source location, target location, and a junction folder name.
 - **History Panel:** Tracks all junctions created by the application, displaying them in a user-friendly interface.
