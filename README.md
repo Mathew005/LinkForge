@@ -11,7 +11,7 @@
 ## Installation
 
 ### 1. Using the Executable (.exe)
-   You can download the latest **LinkForge** `.exe` release from the [releases section](#). Once downloaded:
+   You can download the latest **LinkForge** `.exe` release from the [releases section](https://github.com/Mathew005/LinkForge/releases). Once downloaded:
    - Simply double-click the `.exe` file to launch the application.
    
 ### 2. From Source (Python)
